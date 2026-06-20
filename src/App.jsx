@@ -1,7 +1,6 @@
 import { useEffect, useRef } from 'react';
 
-const portraitSrc =
-  'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 360 360%22%3E%3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%23F1EEE7%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22IBM Plex Mono,monospace%22 font-size=%2224%22 fill=%22%239A9890%22%3EPortrait%3C/text%3E%3C/svg%3E';
+const portraitSrc = '/portrait.jpg';
 
 const sectionNames = {
   hero: 'init',
